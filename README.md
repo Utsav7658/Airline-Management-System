@@ -1,4 +1,5 @@
 # Airline-Management-System
+<<<<<<< HEAD
 A Java FX application made using Model View Controller with FXML. Database also applied (MySQL). Layouts are made using SceneBuilder.
 
 # Contents
@@ -38,3 +39,6 @@ Jayanth C<br/>
 Tarun Kumar Arcot<br/>
 Jyothi<br/>
 
+=======
+A Java FX Application using MVC Arcitecture and MySQL as Backend.
+>>>>>>> 8e55b58ac30778938f53cd2607d25271264ac3b8
